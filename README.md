@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Djiela Parfait
+- 💞️ HTML & CSS
 - 👀 I’m interested in Learning the different programming languages  
 - 💞️ I’m looking to collaborate on any project that can help me improve my programming skills 
 - 📫 How to reach me djielaparfait99@gmail.com
